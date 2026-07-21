@@ -25,6 +25,12 @@ A fursuit head using a custom 3d printed headbase, equipped with a night vision 
 | Raspberry Pi Zero Camera Adapter and Cable Extension | 0          | 1        |
 | Waveshare UPS HAT                                    | 0          | 1        |
 
+### Wiring Diagram:
+
+```
+WS UPS HAT <==40-pin Header==> Raspberry Pi <==Ribbon Cable==> Camera Cable Extender <==Ribbon Cable==> Night Vision Pi Camera
+```
+
 ### Instructions:
 
 - Do research, watch tutorials, know what you're getting into.
