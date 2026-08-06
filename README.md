@@ -15,7 +15,7 @@ A fursuit head using a custom 3d printed headbase, equipped with a night vision 
 ## I want to build this for myself!
 ### Parts: 
 
-> **Prices below are what it cost me, the parts I already had are priced $0.**
+> **Prices below are what it cost me, the parts I already had are priced $0.** Links to parts are in BOM.csv.
 
 | Item                                                 | Price Each | Quantity |
 |------------------------------------------------------|------------|----------|
