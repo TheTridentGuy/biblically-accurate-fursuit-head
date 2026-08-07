@@ -1,6 +1,6 @@
-Item,Price Each,Quantity
-Fur,170,1,https://www.howlfabrics.com/product-page/snow-white-luxury-shag-faux-fur
-Raspberry Pi Night Vision Camera,0,1,https://www.pishop.us/product/raspberry-pi-camera-f-night-vision-adjustable-focus/?srsltid=AfmBOooytBZ4W65YgMyPrD9fWsQ2hJqOsyKMXS3fcDqYbcH24wNNSDWr
-Raspberry Pi Zero,0,1,https://www.canakit.com/raspberry-pi-zero-wireless.html?srsltid=AfmBOoqIWp8aLnC4BHhwak6cGvnvojekpYk_R-FLi-Q0JuGOlwQHvcSh
-Raspberry Pi Zero Camera Adapter and Cable Extension,0,1,https://www.adafruit.com/product/2143
-Waveshare UPS HAT,0,1,https://www.waveshare.com/ups-hat.htm?srsltid=AfmBOorU-zV5ICBtEXX6hOTBqPgKJJNxeESctE7L3hl96K-awzY9FfOV
+Item,Price Each,Shit I Already Have Discount,Quantity,Link,Running Total,Running Total w/ Shit I Already Have Discount
+Fur,170,0%,1,https://www.howlfabrics.com/product-page/snow-white-luxury-shag-faux-fur,170,170
+Raspberry Pi Night Vision Camera,20,100%,1,https://www.pishop.us/product/raspberry-pi-camera-f-night-vision-adjustable-focus/?srsltid=AfmBOooytBZ4W65YgMyPrD9fWsQ2hJqOsyKMXS3fcDqYbcH24wNNSDWr,190,170
+Raspberry Pi Zero,15,100%,1,https://www.canakit.com/raspberry-pi-zero-wireless.html?srsltid=AfmBOoqIWp8aLnC4BHhwak6cGvnvojekpYk_R-FLi-Q0JuGOlwQHvcSh,205,170
+Raspberry Pi Zero Camera Adapter and Cable Extension,7,100%,1,https://www.adafruit.com/product/2143,212,170
+Waveshare UPS HAT,20,100%,1,https://www.waveshare.com/ups-hat.htm?srsltid=AfmBOorU-zV5ICBtEXX6hOTBqPgKJJNxeESctE7L3hl96K-awzY9FfOV,232,170
